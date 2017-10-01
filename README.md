@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LiriBot!
 
 You can use the [editor on GitHub](https://github.com/joshambala/LiriBot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
